@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Visual Studio\Projects\Caesar Cipher\Caesar Cipher\Source.cpp(20,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Caesar Cipher.vcxproj -> D:\Visual Studio\Projects\Caesar Cipher\x64\Debug\Caesar Cipher.exe
